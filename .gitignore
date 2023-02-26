@@ -1,8 +1,14 @@
-# Dependencies
-.psci_modules
-bower_components
-node_modules
+node_modules/
+.expo/
+dist/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+web-build/
 
-# Generated files
-.psci
-output
+# macOS
+.DS_Store
